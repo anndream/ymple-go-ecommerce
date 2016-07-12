@@ -1,4 +1,6 @@
-# Welcome to Revel
+# Welcome to Go-Ymple-Commerce using the framework Revel and structure
+
+The scope is to create a back end web side in go for e-commerce transaction track and analysis
 
 ## Getting Started
 
