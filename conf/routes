@@ -20,3 +20,6 @@ GET     /public/*filepath                       Static.Serve("public")
 
 GET     /item                                       Item.Index
 
+*       /product/insert                    Product.Insert
+
+
