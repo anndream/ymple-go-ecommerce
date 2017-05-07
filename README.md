@@ -1,6 +1,8 @@
-# Welcome to Go-Ymple-Commerce using the framework Revel and structure
+# Welcome to Ymple Go Ecommerce using the framework Revel and structure
 
-The scope is to create a back end web side in go for e-commerce transaction track and analysis
+Start Release 2017.4
+
+The scope is to create a back end web side in go for ecommerce transaction track and analysis
 
 ## Getting Started
 
